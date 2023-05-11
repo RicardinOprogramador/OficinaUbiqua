@@ -1,11 +1,9 @@
 # OficinaUbiqua
-Repositório contendo códigos em html, css e javascript, referente ao projeto final da oficina.
+
+Repositório contendo códigos em html, css e javascript, referente ao projeto final da oficina Ubiqua de programção.
 
 ### Confira o site [aqui](https://ricardinoprogramador.github.io/OficinaUbiqua).
 
-## Grupo: MrRobot
-Participantes:
-* Ricardo Borges de Carvalho
-* José Roberto Barros Pontes
-* Mateus Barbosa Magalhães
-* Paulo Silvano da Silva Monteiro
+Tempo de trabalho: 2 dias.
+
+Tema: Loja de cachorro quente online.
