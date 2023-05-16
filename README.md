@@ -1,6 +1,6 @@
 # OficinaUbiqua
 
-Repositório contendo códigos em html, css e javascript, referente ao projeto final da oficina Ubiqua de programção.
+Repositório contendo códigos em html, css e javascript, que receberam a premiação de segundo lugar, referente ao projeto final da oficina Ubiqua de programção.
 
 ### Confira o site [aqui](https://ricardinoprogramador.github.io/OficinaUbiqua).
 
