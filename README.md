@@ -1,4 +1,4 @@
-# OficinaUbíqua
+# Oficina Ubíqua
 
 Repositório contendo códigos em html, css e javascript, que receberam a premiação de segundo lugar, referente ao projeto final da oficina Ubíqua de programção.
 
