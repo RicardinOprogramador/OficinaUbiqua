@@ -4,6 +4,6 @@ Repositório contendo códigos em html, css e javascript, que receberam a premia
 
 ### Confira o site [aqui](https://ricardocarvalhogit.github.io/OficinaUbiqua/).
 
-Tempo de trabalho: 2 dias.
+Tempo de trabalho: 5 dias.
 
 Tema: Loja de cachorro quente online.
